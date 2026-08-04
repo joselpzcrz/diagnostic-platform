@@ -9,6 +9,7 @@ Build a system that is able to retrieve information from a platform using C++ ag
 A System where a Python CLI submits diagnostic jobs, a Java API stores them in Oracle Database, and a C++ Linux agent executes safe checks and sends reults back.
 
 **Architecture**
+
 +----------------------+                      +----------------------+
 | Linux Agent          |                      | Central Server       |
 +----------------------+                      +----------------------+
